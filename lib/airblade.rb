@@ -1,5 +1,6 @@
 require "airblade/version"
+require "airblade/dryer"
 
 module Airblade
-  # Your code goes here...
+
 end
